@@ -1,4 +1,4 @@
-#ignore virtual environment
+#ignore virtual environment, documentation build and templates
 ontobrapidocsenv/
 docs/build
 docs/source/_templates
