@@ -1,0 +1,4 @@
+#ignore virtual environment
+ontobrapidocsenv/
+docs/build
+docs/source/_templates
