@@ -1,3 +1,4 @@
+.. _custom_mappings:
 
 Custom Mappings
 ===============

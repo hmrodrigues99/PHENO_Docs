@@ -3,27 +3,34 @@
 Getting started with OntoBrAPI
 ==============================
 
+| This section will showcase how to submit your MIAPPE compliant Excel file in OntoBrAPI.
+| Brief explanation/motivation here
 
-This section will describe a simple workflow on how to submit your MIAPPE compliant Excel file in OntoBrAPI.
-To get started, download these example excel files here.
+Example based Tutorial
+======================
 
-In the first example, we will use a valid excel file as input (Miappe_compliant_Excel_file.xlsx).
+| Follow along this tutorial with the given example files to get familiar with OntoBrAPI:
 
-Example 1 - Valid File Example
-------------------------------
+| 📁 `OntoBrAPI Example Files <https://drive.google.com/drive/folders/1AceOedJPjrAk3SmkuLnw9GdqDE6y4fMo?usp=sharing>`_
+
+Example 1 - Valid File
+----------------------
+
+We will start with a MIAPPE compliant Excel file:
 
 1. Open **OntoBrAPI**
-2. Click Input file and select the *Miappe_compliant_Excel_file.xlsx*.
-3. Select the Predefined Mapping File - *Example_mapping.json*
-4. Press Submit
+2. Click **Input file** and select → ``Miappe_compliant_Excel.xlsx``
+3. In Templates, select the Predefined Mapping File → ``Example_mapping.json``
+4. Click **Run**
 
-And that's it, your metadata is readily accesible through databases using BrAPI, such as FAIDARE!
+| The following prompt will appear:
+| Put here submitted sucessfully message prompt here (to potentialy add in OntoBrAPI)
+| That's it! Your data and respective metadata is now readily accessible in databases using BrAPI, such as the case of `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
 
-Now, let's submit a invalid input file to check what may be wrong and how to troubleshoot it.
+Example 2 - Invalid File
+------------------------
 
-
-Example 2 - Invalid File Example
---------------------------------
+Now, let's submit a invalid input file to identify errors and fix them.
 
 1. Click Input File and select the *Faulty_Miappe_Excel_file.xlsx*
 2. Select the Predefined Mapping File - *Example_mapping.json*
@@ -36,7 +43,7 @@ Let's take a closer look to the invalid file:
 
 .. figure:: /images/prov.png
    :alt: Provisory image
-   :scale: 80%
+   :scale: 70%
 
    *Place a screenshot here of an invalid file where you can clearly see the sheet names*
 
@@ -49,8 +56,8 @@ In this case, we see this and that. After fixing this, the file is now valid for
 
 For this last example, we will supply a valid Excel file but an incorrect mapping file (Invalid_Mapping_example.json)
 
-Example 3 - Invalid Mapping Example
------------------------------------
+Example 3 - Invalid Mapping
+---------------------------
 
 1. Click Input File and select the *Miappe_compliant_Excel_file.xlsx*
 2. Click the **Load Mapping** option, and select the - *Invalid_Mapping_example.json*
