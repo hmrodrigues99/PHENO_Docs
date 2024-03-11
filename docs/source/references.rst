@@ -5,6 +5,8 @@ FAIR Standards
 
 | Brief explanation of the **FAIR** standards.
 
+.. _miappe:
+
 MIAPPE
 ------
 
