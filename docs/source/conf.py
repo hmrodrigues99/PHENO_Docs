@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'OntoBrAPI'
-copyright = '2023, Bruno Costa & Hugo Rodrigues'
+project = 'PHENO'
+copyright = '2024, Bruno Costa & Hugo Rodrigues'
 author = 'Bruno Costa & Hugo Rodrigues'
-release = '0.1'
+release = '0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
