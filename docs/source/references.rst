@@ -7,13 +7,16 @@ FAIR Standards
 
 .. _miappe:
 
+FAIR Tools
+==========
+
 MIAPPE
 ------
 
 | If you're completly new to MIAPPE, check this brief explanation **here**.
 | For more information, check the **MIAPPE github page**.
 
-* Download a empty MIAPPE template **here**.
+* Download a empty MIAPPE template `here <https://github.com/MIAPPE/MIAPPE/tree/master/MIAPPE_Checklist-Data-Model-v1.1/MIAPPE_templates>`_.
 * Download an example of a filled Miappe compliant Excel file **here**.
 
 BRAPI
