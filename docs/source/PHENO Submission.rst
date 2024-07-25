@@ -13,7 +13,7 @@ Example 1 - Valid File
 
 | In the first example, the user has a simple **MIAPPE** compliant excel file:
 
-| 📁 `OntoBrAPI Example File 1 (Valid)<https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_
+| 📁 `OntoBrAPI Example File 1 (Valid) <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_
 
 To submit your metadata:
 
@@ -54,7 +54,7 @@ Example 2 - Invalid File
 
 | The second example will showcase working with an invalid input file:
 
-| 📁 `OntoBrAPI Example File 2 (Invalid)<https://docs.google.com/spreadsheets/d/10bELWxuROGh1JAyxlkG_qIFgNn505wII/edit#gid=615880277>`_
+| 📁 `OntoBrAPI Example File 2 (Invalid) <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_INCOMPLIANT_Excel.xlsx>`_
 
 | Let's try and submit this file and try to identify and fix eventual errors during submission.
 
