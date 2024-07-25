@@ -13,7 +13,7 @@ Example 1 - Valid File
 
 | In the first example, the user has a simple **MIAPPE** compliant excel file:
 
-| 📁 `OntoBrAPI Valid Example File <https://docs.google.com/spreadsheets/d/1_m-XS7KS-xt76Rl8rvzvCmrwdpqH5oIp/edit#gid=615880277>`_
+| 📁 `OntoBrAPI Valid Example File <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_
 
 To submit your metadata:
 
