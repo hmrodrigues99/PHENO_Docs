@@ -39,17 +39,17 @@ Welcome to PHENO's documentation!
 
    1. Receives as input a Miappe compliant Excel file
    2. Validates it according to the MIAPPE specifications
-   3. Makes your metadata and associated phenotypic data FAIRly available through various BrAPI compatible search engines worldwide
+   3. Makes your metadata and associated phenotypic data FAIRly available worldwide through BrAPI compatible search engines
 
-| To start using **PHENO**, users are required beforehand to deposit the actual phenotypic data (e.g., tables, images) into a data repository.
+| To submit metadata in **PHENO**, users are required beforehand to deposit the actual phenotypic data (e.g., tables, images) into a data repository.
 | This can be simply done by submitting data in a Google Drive, or any alternative data repository.
-| One such example is Dataverse. For portuguese users, learn on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese instance of Dataverse.
+| One such example is Dataverse. For portuguese users, learn here on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese instance of Dataverse.
 
 Make your data FAIR using PHENO
 -------------------------------
 
 | **FAIR** data is increasingly more valued in research, with new projects tending to follow **FAIR** guidelines when working with their data.
-| **PHENO** aims to increase data FAIRness by making it searchable and readily accessible by specialized databases, such as `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
+| **PHENO** aims to increase data FAIRness by making plant phenotypic data searchable and readily accessible by specialized databases, such as `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
 | This is achieved by making your data compatible with the **Breeding API (BrAPI)**.
 
 Getting Started
