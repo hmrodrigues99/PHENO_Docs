@@ -4,7 +4,7 @@ Submitting Metadata in PHENO
 ============================
 
 | This example based section will showcase how to submit your **MIAPPE** compliant Excel file in **PHENO** using **OntoBrAPI**.
-| If you don't have this file ready, start by following the :ref:`Fill a MIAPE Template<dataverse>` tutorial.
+| If you don't have this file ready, start by following the :ref:`Fill a MIAPPE Template<dataverse>` tutorial.
 |
 | Each of the following examples will showcase possible outcomes when trying to submit your file using **OntoBrAPI**.
 
