@@ -14,7 +14,7 @@ Fill a MIAPPE Template
 2. Go to the Investigation sheet and fill the empty green cells with information about your Project/Investigation
 
 .. note::
-    Use our already `Filled MIAPPE template <https://docs.google.com/spreadsheets/d/1_m-XS7KS-xt76Rl8rvzvCmrwdpqH5oIp/edit#gid=615880277>`_ for reference.
+    Use our already `Filled MIAPPE template <https://docs.google.com/spreadsheets/d/1_m-XS7KS-xt76Rl8rvzvCmrwdpqH5oIp/edit?gid=615880277#gid=615880277>`_ for reference.
 
 3. In the Study sheet, fill TODO
 
