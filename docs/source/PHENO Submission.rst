@@ -3,21 +3,22 @@
 Submitting Metadata in PHENO
 ============================
 
-| This example based section will showcase how to submit your **MIAPPE** compliant Excel file in PHENO using OntoBrAPI.
-| If you don't have this file ready, start by downloading and filling this `MIAPPE template <https://github.com/MIAPPE/MIAPPE/tree/master/MIAPPE_Checklist-Data-Model-v1.1/MIAPPE_templates>`_.
-| Each example will showcase possible outcomes when using OntoBrAPI.
+| This example based section will showcase how to submit your **MIAPPE** compliant Excel file in **PHENO** using **OntoBrAPI**.
+| If you don't have this file ready, start by following the :ref:`Fill a MIAPE Template<dataverse>` tutorial.
+|
+| Each of the following examples will showcase possible outcomes when trying to submit your file using **OntoBrAPI**.
 
 Example 1 - Valid File
 ----------------------
 
 | In the first example, the user has a simple **MIAPPE** compliant excel file:
 
-| 📁 `OntoBrAPI Example Files 1 <https://docs.google.com/spreadsheets/d/1_m-XS7KS-xt76Rl8rvzvCmrwdpqH5oIp/edit#gid=615880277>`_
+| 📁 `OntoBrAPI Valid Example File <https://docs.google.com/spreadsheets/d/1_m-XS7KS-xt76Rl8rvzvCmrwdpqH5oIp/edit#gid=615880277>`_
 
-To submit your metadata in PHENO:
+To submit your metadata:
 
 1. Open **PHENO**
-2. Click **Submit Data**. This will take you to the OntoBrAPI Submission platform
+2. Click **Submit Data**. This will take you to the **OntoBrAPIPP submission platform
 3. Click **Input file** and select your file of choice (e.g., ``Miappe_compliant_Excel.xlsx``)
 
 | A preliminary validation report will appear in the top right corner.
