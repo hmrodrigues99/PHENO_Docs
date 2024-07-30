@@ -17,7 +17,7 @@ Fill a MIAPPE Template
     Use our already `Filled MIAPPE template <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_ for reference.
 
 **Mandatory fields**
-*Investigation title* - The title of your project/investigation (e.g., TRACE-RICE: Mediterranean rice tracing and analysis)
+* Investigation title* - The title of your project/investigation (e.g., TRACE-RICE: Mediterranean rice tracing and analysis)
 *MIAPPE version* - Version of MIAPPE (e.g., 1.1)
 
 **Optional fields**
