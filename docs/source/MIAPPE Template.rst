@@ -3,6 +3,7 @@
 Fill a MIAPPE Template
 ======================
 
+bla
 | This section briefly shows how to correctly fill a MIAPPE template with phenotypic metadata to be submitted in PHENO.
 | You can either follow this step-by-step tutorial, or jump to the :ref:`Video Tutorial<miappe_video>`.
 
