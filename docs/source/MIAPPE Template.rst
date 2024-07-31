@@ -96,8 +96,6 @@ Fill a MIAPPE Template
 | **Observation unit ID** - Observation unit identifier (e.g., plot:894)
 | **Observation unit type** Type of observation unit (e.g., study;block;sub-block;plot;sub-plot;pot;plant)
 
-.. _miappe_video:
-
 8. Go to the **Sample** sheet, and fill the green row(s) for each sample collected from all your study biological material
 
 | **Mandatory fields**
