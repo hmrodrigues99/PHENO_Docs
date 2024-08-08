@@ -3,7 +3,7 @@
 Getting started with PHENO
 ==========================
 
-| **PHENO** is a database dedicated to store plant phenotypic metadata.
+| `PHENO <https://brapi.biodata.pt/>_` is a database dedicated to store plant phenotypic metadata.
 |
 | It can be used as a search engine to check and access data through its correspondent metadata.
 | By submitting in PHENO, your metadata will be safely secured, and your data will be more FAIR and accessible through the Breeding API. 

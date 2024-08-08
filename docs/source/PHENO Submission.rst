@@ -4,7 +4,7 @@ Submitting Metadata in PHENO
 ============================
 
 | This example based section will showcase how to submit your **MIAPPE** compliant Excel file in **PHENO** using **OntoBrAPI**.
-| If you don't have this file ready, start by following the :ref:`Fill a MIAPPE Template<dataverse>` tutorial.
+| If you don't have this file ready, start by following the :ref:`Fill a MIAPPE Template<miappe_template>` tutorial.
 |
 | Each of the following examples will showcase possible outcomes when trying to submit your file using **OntoBrAPI**.
 
@@ -17,9 +17,14 @@ Example 1 - Valid File
 
 To submit your metadata:
 
-1. Open **PHENO**
-2. Click **Submit Data**. This will take you to the **OntoBrAPIPP submission platform
-3. Click **Input file** and select your file of choice (e.g., ``Miappe_compliant_Excel.xlsx``)
+1. Click on **Submit Data**. This will take you to the **OntoBrAPI** submission platform
+
+.. figure:: /images/OntoBrAPI.png
+   :scale: 50%
+   :align: center
+   :target: https://brapi.biodata.pt/submit
+
+2. Click on **upload file**, and select your file of choice ➡️ for this example, choose the ``Miappe_compliant_Excel.xlsx``
 
 | A preliminary validation report will appear in the top right corner.
 | After a sucessfull validation check, the following prompt will appear:
@@ -32,7 +37,7 @@ To submit your metadata:
 .. figure:: /images/OntoBrapi_uploadsucess.png
    :scale: 50%
 
-4. After upload, we need to do the mapping. For this, click **Load Mapping**
+4. After validation, the file needs to be mapped to the Plant Ontology. Click on **Load Mapping**
 
 | This will open a list of Predefined Mapping Templates.
 

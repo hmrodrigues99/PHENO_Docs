@@ -32,7 +32,7 @@ Welcome to PHENO's documentation!
 
    References
 
-| **PHENO** is a database dedicated to store phenotypic metadata.
+| `PHENO <https://brapi.biodata.pt/>_` is a database dedicated to store phenotypic metadata.
 | If you're looking for a comprehensive guide of both **PHENO** and the **OntoBrAPI** platform, then you've come to the right place.
 
 .. admonition:: In a Nutshell, **PHENO**:
