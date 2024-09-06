@@ -41,10 +41,6 @@ Welcome to PHENO's documentation!
    2. Validates it according to the MIAPPE specifications
    3. Makes your metadata and associated phenotypic data FAIRly available worldwide through BrAPI compatible search engines
 
-| To submit metadata in **PHENO**, users are required beforehand to deposit the actual phenotypic data (e.g., tables, images) into a data repository.
-| This can be simply done by submitting data in a Google Drive, or any alternative data repository.
-| One such example is Dataverse. For portuguese users, learn here on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese instance of Dataverse.
-
 Make your data FAIR using PHENO
 -------------------------------
 
@@ -55,8 +51,17 @@ Make your data FAIR using PHENO
 Getting Started
 ---------------
 
+| To submit metadata in **PHENO**, users are required beforehand to deposit the actual phenotypic data (e.g., tables, images) in another data holder of choice, for example:
+
+1. Dataverse* (preferred)
+2. Google Drive
+3. Microsoft OneDrive
+4. Other alternative/specialized data repositories
+
+| \*Dataverse is a specialized database for agnostic scientific data. For portuguese users, learn here on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese instance of Dataverse.
+
 | To use PHENO for the first time, please check the :ref:`Getting started with PHENO <start>` section.
-| To get acquainted with the FAIR and MIAPPE standards, or terms such as BrAPI or FAIDARE, feel free to check the :ref:`References <references>` section.
+| To get acquainted with the FAIR and MIAPPE standards, or terms such as **BrAPI** or **FAIDARE**, feel free to check the :ref:`References <references>` section.
 
 PHENO Database Structure
 ------------------------
@@ -66,8 +71,6 @@ PHENO Database Structure
 1. Data submission (MIAPPE)
 2. Data storage (RDF)
 3. Data sharing (BrAPI)
-
-| More details TODO
 
 Indices and tables
 ==================
