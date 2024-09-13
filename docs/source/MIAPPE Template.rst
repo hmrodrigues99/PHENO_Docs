@@ -4,7 +4,17 @@ Fill a MIAPPE Template
 ======================
 
 | This section briefly shows how to correctly fill a MIAPPE template with phenotypic metadata to be submitted in PHENO.
-| You can either follow this step-by-step tutorial, or jump to the :ref:`Video Tutorial<miappe_video>`.
+| You can either check the video below, or follow a :ref:`step-by-step tutorial<miappe_template_tutorial>`.
+
+Fill a MIAPPE Template - Video Tutorial
+---------------------------------------
+
+Editing TODO
+
+.. _miappe_template_tutorial:
+
+Fill a MIAPPE Template - Step-by-step Tutorial
+----------------------------------------------
 
 1. Start by downloading the `MIAPPE template <https://github.com/MIAPPE/MIAPPE/raw/master/MIAPPE_Checklist-Data-Model-v1.1/MIAPPE_templates/MIAPPEv1.1_training_spreadsheet.xlsx>`_ excel file
 
@@ -116,15 +126,4 @@ Fill a MIAPPE Template
 | **Method** - Named of the method used for observation (e.g., Growing degree days to anthesis)
 | **Scale** - Name of the scale associated with the variable (e.g., °C)
 |
-| Done!
-| Your MIAPPE file is now ready to be submitted in PHENO.
-| To do so, please go to the :ref:`PHENO Submission<ontobrapi>` section.
-|
-| In addition, feel free to watch the following tutorial for further details on how to properly fill a MIAPPE template.
-
-.. _miappe_video:
-
-Fill a MIAPPE Template - Video Tutorial
----------------------------------------
-
-Editing TODO
+| Once you have your MIAPPE file ready, please continue to the :ref:`PHENO Submission<ontobrapi>` section.
