@@ -61,6 +61,7 @@ Getting Started
 |
 | To use PHENO for the first time, please check the :ref:`Getting started with PHENO <start>` section.
 | To get acquainted with the **FAIR** and **MIAPPE standards**, and terms such as **BrAPI** or **FAIDARE**, feel free to check the :ref:`References <references>` section.
+| If you require additional assistance, feel free to contact us directly (hm.rodrigues@itqb.unl.pt).
 
 PHENO in Detail
 ---------------

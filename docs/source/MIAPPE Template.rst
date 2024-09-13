@@ -62,16 +62,16 @@ Fill a MIAPPE Template - Step-by-step Tutorial
 | * **Description of growth facility** - Short description of the facility in which the study was carried out (e.g, glasshouse; growth chamber; field environment condition; "NA")
 
 | **Optional fields**
-| **Study description**
-| **End date of study**
-| **Geographic location (latitude)**
-| **Geographic location (longitude)**
-| **Geographic location (altitude)**
-| **Type of experimental design**
-| **Observation unit level hierarchy**
-| **Type of growth facility**
-| **Cultural practices**
-| **Map of experimental design**
+| * **Study description** - A description of your experiment
+| * **End date of study** - Date and time (if relevant) of when the experiment ended (e.g., 2002-04-04T10:23:21+00:00)
+| * **Geographic location (latitude)** - Latitude of the experimental site (e.g., +43.619264)
+| * **Geographic location (longitude)** - Longitude of the experimental site (e.g., +3.967454)
+| * **Geographic location (altitude)** - Altitude of the experimental site (e.g., 50m)
+| * **Type of experimental design** - Experimental design in form of an accession number from the Crop Ontology (e.g., CO_715:0000145)
+| * **Observation unit level hierarchy** - The hierarchy of different levels of repetitions
+| * **Type of growth facility** - Short description of the facility where the experiment was carried on (e.g., field environment condition)
+| * **Cultural practices** - Type of growth condition in the form of an accession number from the Crop Ontology (e.g., CO_715:0000162)
+| * **Map of experimental design** - URL to a representation (image/schema) of the experimental design (e.g., https://urgi.versailles.inra.fr/files/ephesis/181000503/181000503_plan.xls)
 
 4. Go to the **Person** sheet, and fill the green row(s) for each person working in the investigation
 
@@ -126,4 +126,5 @@ Fill a MIAPPE Template - Step-by-step Tutorial
 | **Method** - Named of the method used for observation (e.g., Growing degree days to anthesis)
 | **Scale** - Name of the scale associated with the variable (e.g., °C)
 |
+| Done!
 | Once you have your MIAPPE file ready, please continue to the :ref:`PHENO Submission<ontobrapi>` section.
