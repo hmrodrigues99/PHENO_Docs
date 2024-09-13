@@ -1,2 +1,2 @@
 # PHENO_Docs
-Read the Docs based documentation for the PHENO database and for the OntoBrAPI data submission tool.
+Read the Docs based documentation for the PHENO platform & the OntoBrAPI metadata submission tool.
