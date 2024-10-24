@@ -3,7 +3,7 @@
 MIAPPE Validator
 ================
 
-| The OntoBrAPI MIAPPE validator is a dedicated module that checks your input file has to be MIAPPE compliant.
+| The OntoBrAPI MIAPPE validator is a dedicated module that checks if your input file is MIAPPE compliant.
 | This is done to guarantee that your metadata is correctly stored and the connection of your data with the Breeding API is successful.
 
 Input File Format

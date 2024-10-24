@@ -37,7 +37,7 @@ Welcome to PHENO's documentation!
 
 .. admonition:: In a Nutshell, **PHENO**:
 
-   1. Receives as input a Miappe compliant Excel file
+   1. Receives as input a MIAPPE compliant Excel file
    2. Validates it according to the MIAPPE specifications
    3. Makes your metadata and associated phenotypic data FAIRly available worldwide through BrAPI compatible search engines
 
