@@ -16,22 +16,22 @@ Editing TODO
 Fill a MIAPPE Template - Step-by-step Tutorial
 ----------------------------------------------
 
-1. Start by downloading the `MIAPPE template <https://github.com/MIAPPE/MIAPPE/raw/master/MIAPPE_Checklist-Data-Model-v1.1/MIAPPE_templates/MIAPPEv1.1_training_spreadsheet.xlsx>`_ excel file
+1. Start by downloading the `MIAPPE template <https://github.com/MIAPPE/MIAPPE/blob/master/Templates/MIAPPE_Spreadsheet_Template.xlsx>`_ Excel file.
 
-.. figure:: /images/Miappe_template.png
-   :scale: 50%
+.. figure:: /images/miappe_template_v1_2.png
+   :scale: 60%
    :align: center
 
 |
 
-2. Go to the **Investigation** sheet and fill the empty green cells with information about your project.
+2. Go to the **Investigation** sheet and fill a row with information about your project.
 
 .. note::
     Use our already `Filled MIAPPE template <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_ for reference.
 
 .. warning::
-    | Fields with * are mandatory!
-    | In order to be acceptable in PHENO, your MIAPPE file is required to have filled out at least all mandatory fields.
+    | Columns with red colored headers are mandatory!
+    | In order to be acceptable in PHENO, your MIAPPE file is required to have filled out at least all mandatory columns (fields with 'NA' or 'none' are considered filled).
 
 | **Mandatory fields**
 | * **Investigation title** - The title of your project/investigation (e.g., TRACE-RICE: Mediterranean rice tracing and analysis)
