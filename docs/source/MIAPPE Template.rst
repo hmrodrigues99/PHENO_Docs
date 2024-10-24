@@ -27,7 +27,7 @@ Fill a MIAPPE Template - Step-by-step Tutorial
 2. Go to the **Investigation** sheet and fill a row with information about your project.
 
 .. note::
-    Use our already `Filled MIAPPE template <https://github.com/forestbiotech-lab/ontobrapi-web/raw/master/public/assets/Miappe_compliant_Excel.xlsx>`_ for reference.
+    Use our already `Filled MIAPPE template <https://github.com/MIAPPE/MIAPPE/raw/refs/heads/master/Templates/MIAPPE_Spreadsheet_Template.xlsx>`_ for reference.
 
 .. warning::
     | Columns with red colored headers are mandatory!
