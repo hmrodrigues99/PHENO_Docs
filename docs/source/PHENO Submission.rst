@@ -80,10 +80,10 @@ Example 2 - Invalid File
 
 As we can see, the loading failed due to an input file validation error.
 
-.. figure:: /images/OntoBrapi_validationsucess.png
-   :scale: 26%
+.. figure:: /images/invalid1.png
+   :scale: 65%
 
-| By clicking in the *FAILED* button within the validation report menu, a drop-down of messages indicate a "CHECK FAILED - Invalid Input File Sheet Names" entry.
+| By clicking in the *FAIL* button (Input validation menu), a message drop-down indicates a "CHECK FAILED - Invalid Input File Sheet Names" entry.
 | This means that one or more sheets in the Excel file are missing or have different names from the ones described in the MIAPPE standards.
 | Let's take a closer look to the invalid file sheet names:
 
