@@ -66,12 +66,6 @@ To submit your metadata:
 4. Lastly, click **Run**
    
 | That's it! Your metadata was sucessfuly submitted in PHENO.
-| The submitted dataset will be private, and only made public:
-
-* Until the **Public release date** specified in the **Investigation sheet** is reached;
-* After approval by a **PHENO curator**.
-
-| Once the dataset is made public, all phenotypic data associated with your submitted metadata will be readily accessible in BrAPI compliant databases, such as the case of PHENO and `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
 
 Example 2 - Invalid File
 ------------------------
@@ -128,3 +122,14 @@ Example 3 - Invalid Mapping
 3. Press Submit
 
 As we can check by the warning, the supplied mapping was insufficient to properly connect the supplied Miappe metadata.
+
+After Submission
+----------------
+
+The submitted dataset will be private, and only made public:
+
+* Until the **Public release date** specified in the **Investigation sheet** is reached;
+* After approval by a **PHENO curator**.
+
+| Once the dataset is made public, all phenotypic data associated with your submitted metadata will be readily accessible
+| in BrAPI compliant databases, such as the case of **PHENO** and `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
