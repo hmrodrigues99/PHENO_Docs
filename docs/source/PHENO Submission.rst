@@ -3,10 +3,25 @@
 Submitting Metadata in PHENO
 ============================
 
-| This example based section will showcase how to submit your **MIAPPE** compliant Excel file in **PHENO** using **OntoBrAPI**.
-| If you don't have this file ready, start by following the :ref:`Fill a MIAPPE Template<miappe_template>` tutorial.
-|
-| Each of the following examples will showcase possible outcomes when trying to submit your file using **OntoBrAPI**.
+| This example based section will showcase how to submit your **MIAPPE** compliant Excel file in **PHENO**.
+| If you don't have this file ready, start with the :ref:`Fill a MIAPPE Template<miappe_template>` tutorial.
+
+Go to the OntoBrAPI Submission page
+-----------------------------------
+
+1. Click on **Submit Data**.
+
+.. figure:: /images/submit_arrow.png
+   :scale: 8%
+   :alt: Submit data
+
+| This will take you to the **OntoBrAPI** submission tool.
+
+.. figure:: /images/ontobrapiv2.png
+   :scale: 50%
+   :alt: OntoBrAPI submission tool
+
+| Each of the following examples will showcase possible outcomes when trying to submit your file in `PHENO <https://brapi.biodata.pt/>`_.
 
 Example 1 - Valid File
 ----------------------
@@ -17,15 +32,14 @@ Example 1 - Valid File
 
 To submit your metadata:
 
-1. Click on **Submit Data**. This will take you to the **OntoBrAPI** submission platform
+1. Click on **upload file**, and select your file of choice ➡️ for this example, choose the ``Miappe_compliant_Excel.xlsx``
 
 .. figure:: /images/OntoBrAPI.png
    :scale: 50%
    :align: center
    :target: https://brapi.biodata.pt/submit
 
-2. Click on **upload file**, and select your file of choice ➡️ for this example, choose the ``Miappe_compliant_Excel.xlsx``
-
+|
 | A preliminary validation report will appear in the top right corner.
 | After a sucessfull validation check, the following prompt will appear:
 
@@ -37,11 +51,11 @@ To submit your metadata:
 .. figure:: /images/OntoBrapi_uploadsucess.png
    :scale: 50%
 
-4. After validation, the file needs to be mapped to the Plant Ontology. Click on **Load Mapping**
+2. After validation, the file needs to be mapped to the Plant Ontology. Click on **Load Mapping**
 
 | This will open a list of Predefined Mapping Templates.
 
-4. Select the ``standard_mapping.json`` option
+3. Select the ``[JSON] MIAPPEV1.1`` option
 
 | Since our input file is a standard MIAPPE file, this will automaticaly conclude the mapping.
 | The mapping success is seen on the color and number in the file sheet names, like shown bellow:
@@ -49,10 +63,15 @@ To submit your metadata:
 .. figure:: /images/OntoBrapi_uploadsucess.png
    :scale: 50%
 
-5. Lastly, click **Run**
+4. Lastly, click **Run**
    
 | That's it! Your metadata was sucessfuly submitted in PHENO.
-| The phenotypic data associated with your now submitted metadata is now readily accessible in databases using BrAPI, such as the case of `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
+| The submitted dataset will be private, and only made public:
+
+* Until the **Public release date** specified in the **Investigation sheet** is reached;
+* After approval by a **PHENO curator**.
+
+| Once the dataset is made public, all phenotypic data associated with your submitted metadata will be readily accessible in BrAPI compliant databases, such as the case of PHENO and `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
 
 Example 2 - Invalid File
 ------------------------

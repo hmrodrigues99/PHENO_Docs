@@ -32,8 +32,8 @@ Welcome to PHENO's documentation!
 
    References
 
-| `PHENO <https://brapi.biodata.pt/>`_ is a database dedicated to store phenotypic metadata.
-| If you're looking for a comprehensive guide of both **PHENO** and the **OntoBrAPI** platform, then you've come to the right place.
+| `PHENO <https://brapi.biodata.pt/>`_ is a data portal for the submission, storage and sharing of metadata for plant phenotypic experiments.
+| If you're looking for a comprehensive guide of both `PHENO <https://brapi.biodata.pt/>`_ and the `OntoBrAPI <https://brapi.biodata.pt/submit>`_ platform, then you've come to the right place.
 
 .. admonition:: In a Nutshell, **PHENO**:
 
@@ -66,6 +66,13 @@ Getting Started
 PHENO in Detail
 ---------------
 
+.. figure:: /images/PHENO_structure.jpg
+   :scale: 100%
+   :align: center
+   :alt: PHENO structure overview
+
+   PHENO structure overview
+
 | **PHENO** ensures data FAIRness by integrating 3 main modules based on international standards:
 
 1. Data submission (MIAPPE)
@@ -81,3 +88,6 @@ PHENO in Detail
 |     management system for data curators to validate datasets and select which ones are ready for sharing.
 |
 | 3) PHENO serves as a BrAPI endpoint where the data stored is made available in JSON to BrAPI calls, in accordance with the `BrAPI specifications <https://brapi.org/specification>`_.
+|
+| To submit medata in PHENO, check the :ref:`Submitting Metadata in PHENO<ontobrapi>` section.
+| To learn how to browse PHENO for a specific project \(meta\)data, check the :ref:`Getting started with PHENO <start>` section.
