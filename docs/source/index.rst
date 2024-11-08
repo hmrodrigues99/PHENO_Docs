@@ -66,8 +66,8 @@ Getting Started
 PHENO in Detail
 ---------------
 
-.. figure:: /images/PHENO_structure.jpg
-   :scale: 100%
+.. figure:: /images/pheno_structure.jpg
+   :scale: 75%
    :align: center
    :alt: PHENO structure overview
 
