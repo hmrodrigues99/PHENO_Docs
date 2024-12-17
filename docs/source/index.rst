@@ -67,7 +67,6 @@ PHENO in Detail
 ---------------
 
 .. figure:: /images/pheno_structure.jpg
-   :scale: 75%
    :align: center
    :alt: PHENO structure overview
 
