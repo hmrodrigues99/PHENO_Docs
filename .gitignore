@@ -1,4 +1,4 @@
-#ignore virtual environment, documentation build and templates
-ontobrapidocsenv/
+# Ignore virtual environment, documentation build and templates
+venv_*
 docs/build
 docs/source/_templates
