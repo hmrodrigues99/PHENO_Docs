@@ -1,7 +1,7 @@
 .. _start:
 
-Getting started with PHENO
-==========================
+Getting started with PHENO trial
+================================
 
 | `PHENO <https://brapi.biodata.pt/>`_ is a data portal for the submission, storage and sharing of metadata for plant phenotypic experiments.
 | It can be used as a search engine to look for plant phenotypic data, and store your experiment metadata to comply with FAIR guidelines.
