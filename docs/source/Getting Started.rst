@@ -5,13 +5,13 @@ Getting started with PHENO
 
 | `PHENO <https://brapi.biodata.pt/>`_ is a data portal for the submission, storage and sharing of metadata for plant phenotypic experiments.
 | It can be used as a search engine to look for plant phenotypic data, and store your experiment metadata to comply with FAIR guidelines.
-| By submitting in PHENO, your project metadata will be secured, and your data will be more **FAIR**.
+| By submitting in PHENO, your project metadata will be secured, and your data will be more `FAIR <https://fair-software.eu/about>`_.
 
 Submitting Data in PHENO
 ------------------------
 
-| Submitting data in **PHENO** is done using the **OntoBrAPI** tool.
-| Learn how in the :ref:`Submitting Metadata in PHENO<ontobrapi>` section.
+| Submitting data in **PHENO** is done using the `OntoBrAPI <https://brapi.biodata.pt/submit>`_ tool.
+| Learn on how to start submitting your data in the :ref:`Submitting Metadata in PHENO <ontobrapi>` section.
 
 Searching and Retrieving Data
 -----------------------------
