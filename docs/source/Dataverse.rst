@@ -3,9 +3,10 @@
 Dataverse Data Submission
 =========================
 
-Phenotypic data can be submitted in `DMPortal <https://dmportal.biodata.pt/>`_, the Portuguese instance of Dataverse, a repository for all kinds of research data.
+| Phenotypic data can be submitted in `DMPortal <https://dmportal.biodata.pt/>`_, the Portuguese instance of Dataverse, a repository for all kinds of research data.
+| This guide will show you how to submit your data in DMPortal, before proceeding with the :ref:`Submitting Metadata in PHENO <ontobrapi>` section.
 
-1. Sign in to `DMPortal <https://dmportal.biodata.pt/>`_.
+1. Start by signing in to `DMPortal <https://dmportal.biodata.pt/>`_.
 
 2. Select the Plant BioDataVerse
 
