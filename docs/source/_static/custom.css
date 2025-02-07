@@ -13,12 +13,16 @@
  background: #585858;
 }
 
-/* Add margin to images */
+/* Set image margins */
+/* Add 10px margin all around a image*/
 .img-margin-1 {
- margin: 10px !important; /* Adjust the margin as needed */
+ margin: 10px !important;
 }
-
-/* Add margin to images */
+/* Add 20px margin all around a image */
 .img-margin-2 {
-    margin: 20px !important; /* Adjust the margin as needed */
+    margin: 20px !important;
+   }
+/* Add 20px margin to the bottom of a image */
+.img-margin-2b {
+    margin-bottom: 20px !important;
    }

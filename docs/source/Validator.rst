@@ -49,4 +49,4 @@ Additional sheets can be present, but will only be used if a custom mapping temp
 2. Columns suposed to accept only numbers are checked as to not contain letters.
 3. Columns supposed to hold dates are checked as to meet valid data formats (*e.g.*, DD/MM/YYYY).
 
-| For a complete spreadsheet detailing the valid MIAPPE v1.1 specifications, check the :ref:`References - MIAPPE Section<miappe>`.
+| For a complete spreadsheet detailing the valid MIAPPE v1.1 specifications, check the :ref:`References - MIAPPE Section<references>`.

@@ -44,20 +44,24 @@ Welcome to PHENO's documentation!
 Make your data FAIR using PHENO
 -------------------------------
 
-| **FAIR** data is increasingly more valued in research, with new projects tending to follow **FAIR** guidelines when working with their data.
-| **PHENO** aims to increase data FAIRness by making plant phenotypic data searchable and readily accessible by specialized databases, such as `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_.
-| This is achieved by making your data compatible with the **Breeding API (BrAPI)**.
+| `FAIR <https://fair-software.eu/about/>`_ data is increasingly more valued in research, with new projects tending to follow **FAIR** guidelines when working with their data.
+| **PHENO** is a tool that helps you make your data **FAIR** by providing a platform for the submission, storage and sharing of metadata for plant phenotypic experiments.
+|
+| **PHENO** incorporates the **FAIR principles** in the sense that:
+| * Data is stored in a secure, open and accessible repository with version control.
+| * Enables data findability and reusability through descriptive metadata of phenotypic experiments using `MIAPPE <https://www.miappe.org/>`_.
+| * It is interoplable with other data repositories (e.g., `FAIDARE <https://urgi.versailles.inra.fr/faidare/>`_) through the use of the `Breeding API (BRAPI) <https://brapi.org/>`_.
 
 Getting Started
 ---------------
 
 | To submit metadata in **PHENO**, users are required beforehand to deposit the actual phenotypic data (e.g., tables, images) in another data holder of choice, for example:
 
-1. Dataverse*
+1. `Dataverse <https://dataverse.org/>`_\*
 2. Google Drive / Microsoft OneDrive
 3. Other specialized data repositories
 
-| \*Dataverse is a database for agnostic scientific data. For portuguese users, learn here on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese instance of Dataverse.
+| \*Dataverse is a database for any type of scientific data. For portuguese users, learn on :ref:`how to submit your data in DMPortal<dataverse>`, the portuguese Dataverse.
 |
 | To use PHENO for the first time, please check the :ref:`Getting started with PHENO <start>` section.
 | To get acquainted with the **FAIR** and **MIAPPE standards**, and terms such as **BrAPI** or **FAIDARE**, feel free to check the :ref:`References <references>` section.
