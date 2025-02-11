@@ -3,8 +3,7 @@
 Custom Mapping
 ==============
 
-| Given the flexibility of the MIAPPE standard, the user may want or need to generate custom mappings
-| to accomodate different types of MIAPPE compliant Excel files.
+Given the flexibility of the MIAPPE standard, the user may want or need to generate custom mappings to accomodate different types of MIAPPE compliant Excel files.
 
 Create a custom JSON mapping file
 ---------------------------------
